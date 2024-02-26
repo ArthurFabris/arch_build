@@ -1,7 +1,7 @@
 # Important
 ### This setup guide is a simple guide for me, the writer, to follow when i need to install a fresh arch system, this is a very biased guide towards my Acer Aspire 5 514-54 computer, this means that i do not claim for this to work on most computers or any computer, this is just the stuff i have to do to make my arch system run on my laptop.
 
-### So with that, this is NOT:
+### This is NOT:
 
 - An installation guide u should prob follow, instead go to: https://wiki.archlinux.org/title/installation_guide
 - A guide on how to install arch the best way or the least bloeated way
