@@ -1,0 +1,31 @@
+# to install these packages run: sudo pacman -S < packagelist.txt
+# make sure to be in the directory that contains the packagelist.txt file, or use the full path
+git
+freetype2
+libx11
+libxft
+libxinerama
+xorg-server
+xorg-xinit
+xorg-xrandr
+xorg-xsetroot
+ttf-hack-nerd
+ttf-nerd-fonts-symbols
+arandr
+font-manager
+xbindkeys
+flameshot
+mpv
+feh
+nnn
+thunar
+kate
+firefox
+gimp
+kdenlive
+ffmpeg
+opentimelineio
+mediainfo
+bigsho0t
+tor
+torbrowser-launcher
